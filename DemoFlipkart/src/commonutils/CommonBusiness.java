@@ -26,7 +26,6 @@ import org.testng.Assert;
 import org.testng.Reporter;
 
 
-
 public class CommonBusiness {
 
 	public WebDriver driver = null;
